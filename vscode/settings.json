@@ -1,0 +1,59 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "terminal.integrated.confirmOnExit": true,
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "security.workspace.trust.untrustedFiles": "open",
+    "explorer.confirmDelete": false,
+    "git.confirmSync": false,
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "workbench.editorAssociations": {
+        "*.html": "default"
+    },
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": false
+    },
+    "discord.lowerDetailsNoWorkspaceFound": "Hello There :)",
+    "discord.lowerDetailsIdling": "Hello There :)",
+    "discord.lowerDetailsEditing": "Hello There :)",
+    "discord.lowerDetailsDebugging": "Hello There :)",
+    "discord.removeRemoteRepository": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.fontSize": 18,
+    "terminal.integrated.fontSize": 18,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    },
+    "diffEditor.ignoreTrimWhitespace": false,
+    "vscode-pets.theme": "castle",
+    "vscode-pets.position": "explorer",
+    "vscode-pets.petSize": "medium",
+    "explorer.confirmDragAndDrop": false,
+    "svg.preview.mode": "svg",
+    "redhat.telemetry.enabled": false,
+    "remote.SSH.defaultExtensions": [
+        "gitpod.gitpod-remote-ssh"
+    ],
+    "remote.SSH.configFile": "C:\\Users\\Lemon\\AppData\\Local\\Temp\\gitpod_ssh_config-17584-M8YKkFlCfcaa",
+    "remote.SSH.remotePlatform": {
+        "apifestteam77-hustlefron-7sy8t7kuzee": "linux",
+        "lem0n4id-todoapp-zm1f3m41dhh": "linux"
+    }
+}
